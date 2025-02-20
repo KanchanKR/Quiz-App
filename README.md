@@ -1,7 +1,7 @@
 # 🎯 Interactive Quiz Platform
 
 ## 🚀 Live Demo
-You can check out the deployed version here: **[Live Project on Vercel](https://ad-task-ai-assignment-pi.vercel.app/)**
+You can check out the deployed version here: **[Live Project on Vercel](https://quiz-app-rho-green.vercel.app/)**
 
 A **React + Vite** based quiz platform where users can:
 - Attempt pre-existing quizzes.
@@ -41,5 +41,6 @@ Follow these steps to run the app locally:
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/quiz-platform.git
+git clone https://github.com/KanchanKR/Quiz-App.git
 cd quiz-platform
+
