@@ -13,7 +13,7 @@ A **React + Vite** based quiz platform where users can:
 ## 🚀 Features
 
 ✅ **Playing Quizzes**
-- Users can play **pre-existing** or **self-created quizzes**.
+- Users can play **pre-existing**.
 - Quizzes are **time-limited** (30 seconds per question).
 - Feedback is given **instantly** after each answer.
 
